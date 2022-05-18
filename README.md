@@ -9,5 +9,5 @@ Random Forest |
 Naive Bayes
 
 # Methodology
-
+It is divided the following parts:
 Data Preprocesing, Train using Machine Learning Algorithms, testing, Adaptability Prediction, Result Analysis, Find the Best Model
