@@ -10,4 +10,4 @@ Naive Bayes
 
 # Methodology
 It is divided the following parts:
-Data Preprocesing, Train using Machine Learning Algorithms, testing, Adaptability Prediction, Result Analysis, Find the Best Model
+A.Data Preprocesing. B.Train using Machine Learning Algorithms. C.testing. D.Adaptability Prediction E.Result Analysis. F.Find the Best Model
