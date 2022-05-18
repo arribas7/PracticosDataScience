@@ -1,5 +1,5 @@
-# PracticosDataScience
-Casos Prácticos - curso Data science
+
+# Workshop Data science
 
 Let's have a look at various classification models in Machine Learning:
 
