@@ -3,11 +3,14 @@ Students Adaptability Level in Online Education
 About Dataset
 
 Context
-Since as a beginner in machine learning it would be a great opportunity to try some techniques to predict the outcome of Students’ Adaptability Level Prediction in Online Education using Machine Learning Approaches 
+Since as a beginner in machine learning it would be a great opportunity to try some techniques
+to predict the outcome of Students’ Adaptability Level Prediction in Online Education 
+using Machine Learning Approaches 
 The data was collected from both online and offline surveys of several education levels. 
 
 Country where data was collected: Bangladesh
-Original research paper. Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches or DOI: 10.1109/ICCCNT51525.2021.9579741
+Original research paper. Students' Adaptability Level Prediction in Online Education using Machine
+ Learning Approaches or DOI: 10.1109/ICCCNT51525.2021.9579741
 Link: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
 COLUMNS:
